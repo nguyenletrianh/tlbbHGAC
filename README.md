@@ -1,2 +1,2 @@
 # tlbbHGAC
-Nơi mọi người đóng góp lỗi về của game
+Nơi mọi người đóng góp lỗi của game
